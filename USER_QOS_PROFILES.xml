@@ -113,6 +113,7 @@ RTI Connext user manual.
                 <kind>TRANSIENT_LOCAL_DURABILITY_QOS</kind>
               </durability>
             </datareader_qos>
+          <!--GS Missing the history depth the DR side-->
             <participant_qos>
                 <!--
                 The participant name, if it is set, will be displayed in the
